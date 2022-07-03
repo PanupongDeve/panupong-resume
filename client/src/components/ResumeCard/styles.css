@@ -1,0 +1,55 @@
+.resume-card {
+    width: 100%;
+    min-height: 500px;
+}
+
+
+.resume-card .header-card {
+    background: #434E5E;
+    color: rgba(255, 255, 255, 0.9);
+    height: 220px;
+}
+
+.header-card .picture {
+    width: 220px;
+}
+
+.header-card .name {
+    font-size: 1.2rem;
+    letter-spacing: 0.1rem;
+    font-weight: 900;
+    padding-top: 15px;
+}
+
+.header-card .role {
+    text-align: left;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.header-card .contact-list {
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.header-card a {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.header-card a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.header-card .secondary-info {
+    margin-left: 100px;
+    min-width: 400px;
+}
+
+.header-card .contact-list__icon {
+    font-size: 25px;
+    color: white;
+    margin-right: 15px;
+}

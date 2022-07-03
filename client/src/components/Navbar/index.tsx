@@ -12,7 +12,7 @@ const Navbar = () => {
                             <div className="logo-wrapper">
                                 <div className="logo logo-top">
                                     <a href="#">
-                                        <h1>I-Shopping</h1>
+                                        <h1>PanupongDev</h1>
                                     </a>
                                 </div>
                             </div>
@@ -23,9 +23,8 @@ const Navbar = () => {
                                             <ul className="navbar-nav">
                                                 <li role="button" >
                                                     <FontAwesomeIcon className='icon-nav-menu'  icon={faHome}/>
-                                                    Menu</li>
-                                                <li>About</li>
-                                                <li>Contract</li>
+                                                    About</li>
+                                                <li>Portfolio</li>
                                             </ul>
                                         </div>
                                     </div>
