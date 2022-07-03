@@ -1,0 +1,14 @@
+.resume-degree {
+    color: #434e5e;
+    font-weight: bolder;
+    opacity: 0.8;
+}
+
+.resume-degree-org {
+    font-size: 0.875rem;
+}
+
+.resume-degree-time {
+    color: #aab4c3;
+    font-size: 0.875rem;
+}
