@@ -1,0 +1,15 @@
+.resume-topic-title {
+    font-size: 1.25rem;
+    position: relative;
+    color: #434E5E;
+}
+
+.resume-topic-title:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 1.5px;
+    background: #8d9aad;
+}

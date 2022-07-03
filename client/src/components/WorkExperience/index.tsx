@@ -1,11 +1,11 @@
 import './styles.css'
 import Badge from '../Badge'
+import CardSection from '../CardSection'
 
 const WorkExperience = () => {
 
     return (
-        <div className="experience-section px-5 mb-5">
-            <h2 className="experience-title text-uppercase font-weight-bold pb-3 mb-3">Work Experience</h2>
+        <CardSection className="experience-section" title="Work Experience">
             <div className="experience-content">
                 <div className="resume-timeline position-relative">
                     <article className="resume-timeline-item position-relative pb-5 mb-2">
@@ -116,7 +116,7 @@ const WorkExperience = () => {
 
                 </div>
             </div>
-        </div>
+        </CardSection>
     )
 }
 
