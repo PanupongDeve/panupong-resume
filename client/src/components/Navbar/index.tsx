@@ -12,7 +12,7 @@ const Navbar = () => {
                             <div className="logo-wrapper">
                                 <div className="logo logo-top">
                                     <a href="#">
-                                        <h1>PanupongDev</h1>
+                                        <h1 className='logo-title'>PanupongDeve</h1>
                                     </a>
                                 </div>
                             </div>
@@ -22,9 +22,12 @@ const Navbar = () => {
                                         <div className='navbar-collapse collapse' id="bs-example-navbar-collapse-1">
                                             <ul className="navbar-nav">
                                                 <li role="button" >
-                                                    <FontAwesomeIcon className='icon-nav-menu'  icon={faHome}/>
-                                                    About</li>
-                                                <li>Portfolio</li>
+                                                    <i className="contact-list__icon fa-regular fa-folder-user"></i>
+                                                    <b className='menu-list'>Resume</b>
+                                                    </li>
+                                                <li role="button">
+                                                    <b className='menu-list'>Portfolio</b>
+                                                </li>
                                             </ul>
                                         </div>
                                     </div>

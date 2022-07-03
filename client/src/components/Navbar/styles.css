@@ -1,6 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.logo .logo-title {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+.d_menu {
+    display: flex;
+    justify-content: center;
+}
+
 .top-menu-area {
-    background: #fff;
+    background: #434E5E;
     border-bottom: 1px solid #ebedf2;
+    color: rgba(255, 255, 255, 0.9);
 }
 
 .top-menu-area .menu-fullwidth {
@@ -52,6 +66,13 @@
     margin-right: 40px;
 }
 
-.mainmenu__menu .icon-nav-menu {
+.menu-container .icon-nav-menu {
     margin-right: 5px;
+}
+
+.menu-container .menu-list {
+    text-transform: uppercase;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 24px;
+    letter-spacing: 2px;
 }
