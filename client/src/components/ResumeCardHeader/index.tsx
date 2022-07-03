@@ -23,29 +23,29 @@ const ResumeHeaderCard = () => {
                                 </ul>
                             </div>
                             <div className='secondary-info col-auto mt-2'>
-                                <ul className='list-unstyled'>
+                                <ul className='list-unstyled social-list'>
                                     <li className='contact-list mb-2'>
                                         <i className="contact-list__icon fa-brands fa-linkedin"></i>
                                         <a target="_blank" href="https://www.linkedin.com/in/panupong-chamsomboon" className="text-link">
-                                            https://www.linkedin.com/in/panupong-chamsomboon/
+                                            LinkedIn
                                         </a>
                                     </li>
                                     <li className='contact-list mb-2'>
                                         <i className="contact-list__icon fa-brands fa-github-square"></i>
                                         <a target="_blank" href="https://github.com/PanupongDeve" className="text-link">
-                                             https://github.com/PanupongDeve
+                                             Github
                                         </a>
                                     </li>
                                     <li className='contact-list mb-2'>
                                         <i className="contact-list__icon fa-brands fa-dev"></i>
                                         <a target="_blank" href="https://dev.to/panupongdeve" className="text-link">
-                                            https://dev.to/panupongdeve
+                                            Blog
                                         </a>
                                     </li>
                                     <li className='contact-list mb-2'>
                                         <i className="contact-list__icon fa-brands fa-facebook-square"></i>
                                         <a target="_blank" href="https://web.facebook.com/TaSFM4a1" className="text-link">
-                                            https://web.facebook.com/TaSFM4a1/
+                                            Facebook
                                         </a>
                                     </li>
                                 </ul>
