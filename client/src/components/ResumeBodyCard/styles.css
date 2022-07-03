@@ -1,3 +1,12 @@
-.resume-body-card {
+.resume-body {
 
+}
+
+.resume-body h1,
+.resume-body h2,
+.resume-body h3,
+.resume-body h4,
+.resume-body h5,
+.resume-body h6 {
+    font-weight: bolder;
 }

@@ -1,12 +1,12 @@
 import './styles.css'
-import Profile from '../../assets/images/profile.jpg'
+import Profile from '../../assets/images/Profile-1.jpg'
 
 const ResumeHeaderCard = () => {
     return (
         <header className="header-card">
                 <div className="row">
                     <div className="col-block col-md-auto resume-picture-holder text-center text-md-start">
-                        <img className='picture' src={Profile} alt="" />
+                        <img className='picture picture-profile' src={Profile} alt="" />
                     </div>
                     <div className="col">
                         <div className='row p-4 justify-content-center justify-content-md-between'>

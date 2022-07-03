@@ -9,6 +9,11 @@
     padding-top: 15px;
 }
 
+.header-card .picture-profile {
+    width: 350px;
+    height: 220px;
+}
+
 .header-card .role {
     text-align: left;
     font-size: 1rem;
