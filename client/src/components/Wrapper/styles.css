@@ -10,3 +10,18 @@
     max-width: 1200px;
    
 }
+
+.bgcolor {
+    background: #f7f7f8;
+}
+
+.layout {
+    height: 100vh;
+}
+
+.notfound {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
