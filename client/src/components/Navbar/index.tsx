@@ -1,6 +1,5 @@
 import './styles.css'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faHome } from '@fortawesome/free-solid-svg-icons'
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
     return (
@@ -22,11 +21,10 @@ const Navbar = () => {
                                         <div className='navbar-collapse collapse' id="bs-example-navbar-collapse-1">
                                             <ul className="navbar-nav">
                                                 <li role="button" >
-                                                    <i className="contact-list__icon fa-regular fa-folder-user"></i>
-                                                    <b className='menu-list'>Resume</b>
+                                                    <Link to="/"><b className='menu-list'> Resume</b></Link>
                                                     </li>
                                                 <li role="button">
-                                                    <b className='menu-list'>Portfolio</b>
+                                                    <Link to="/portfolio"><b className='menu-list'>Portfolio</b></Link>    
                                                 </li>
                                             </ul>
                                         </div>
