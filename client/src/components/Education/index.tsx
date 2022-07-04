@@ -5,7 +5,7 @@ import CardSection from '../CardSection'
 const Education = () => {
     return (
         <CardSection className="education-section" title="Education">
-             <div className='education-section-content'>
+            <div className='education-section-content'>
                 <ul className="list-unstyled">
                     <li className="mb2">
                         <div className='resume-degree font-weight-bold'>Bsc in Computer Engineering</div>

@@ -1,0 +1,32 @@
+.course {
+    color: #434e5e;
+    font-weight: bolder;
+    opacity: 0.8;
+}
+
+.course-org {
+    font-size: 0.875rem;
+}
+
+.course-time {
+    color: #aab4c3;
+    font-size: 0.875rem;
+}
+
+.course-btn {
+    margin-top: 15px;
+    color: var(--bs-btn-hover-color);
+    background-color: var(--bs-btn-hover-bg);
+    border-color: var(--bs-btn-hover-border-color);
+    font-size: 0.8rem;
+    padding:5px 20px;
+    border-radius: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.course-btn .btn-icon {
+    margin-left: 5px;
+    font-size: 0.8rem;
+}
