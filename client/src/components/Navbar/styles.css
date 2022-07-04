@@ -76,3 +76,10 @@
     font-size: 24px;
     letter-spacing: 2px;
 }
+
+.navbar-nav a:hover,
+.navbar-nav a:active {
+    color: inherit;
+    text-decoration: inherit;
+    background-color: transparent;
+}
