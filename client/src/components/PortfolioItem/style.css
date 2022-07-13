@@ -1,0 +1,68 @@
+.port-card {
+    padding: 1.5rem;
+    text-align: left !important;
+    background: #f3f6f9;
+    border-radius: 4px;
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.port-card .card-body-container {
+    margin-bottom: 2rem;
+}
+
+.port-card time {
+    color: #868e96;
+    font-size: .8rem;
+}
+
+.port-card .card-title {
+    color: #212529;
+    font-size: 1.1rem;
+    line-height: 1.2;
+}
+
+.port-card .card-title:hover {
+    color: #212529;
+    text-decoration: underline;
+}
+
+.port-card .--underline {
+    text-decoration: underline;
+}
+
+.port-card p {
+    font-size: .95rem;
+    color: #868e96;
+}
+
+.port-card .card-link {
+    text-align: center;
+    color: #4b4056;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: .9rem;
+    font-weight: 500;
+    padding: 0.6rem 1rem;
+}
+
+.port-card .flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+
+.port-card .card-link:hover {
+    border-color: #868e96;
+    color: #212529;
+}
+
+.port-card .card-link-title {
+    margin-right: 5px;
+}

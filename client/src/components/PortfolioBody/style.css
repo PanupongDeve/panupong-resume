@@ -1,0 +1,12 @@
+.portfolio-body {
+
+}
+
+.portfolio-body h1,
+.portfolio-body h2,
+.portfolio-body h3,
+.portfolio-body h4,
+.portfolio-body h5,
+.portfolio-body h6 {
+    font-weight: bolder;
+}
