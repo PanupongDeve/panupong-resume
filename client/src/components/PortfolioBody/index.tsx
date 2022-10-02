@@ -5,8 +5,8 @@ import PortfolioItem from '../PortfolioItem'
 const portfolio_details = [
     {
         time: '2022',
-        title: 'panupongdeve.vercel.app',
-        title_link: 'https://panupongdeve.vercel.app',
+        title: 'panupong-dev.vercel.app',
+        title_link: 'https://panupong-dev.vercel.app',
         source_link: 'https://github.com/PanupongDeve/panupong-resume',
         detail: 'The source of this website.'
     },
@@ -16,13 +16,6 @@ const portfolio_details = [
         title_link: 'https://pw-web-solution.vercel.app',
         source_link: 'https://pw-web-solution.vercel.app',
         detail: 'Nextjs building landing page'
-    },
-    {
-        time: '2022',
-        title: 'Seed Tracking',
-        title_link: 'https://seed-tracking.vercel.app',
-        source_link: 'https://github.com/PanupongDeve/seed-tracking',
-        detail: 'application แจ้งอุปกรณ์ที่โบสถ์เสีย พัฒนาด้วยวิธีการ Progressive Web Application ด้วย Tools Reactjs, Nodejs, Firebase'
     },
     {
         time: '2021',
