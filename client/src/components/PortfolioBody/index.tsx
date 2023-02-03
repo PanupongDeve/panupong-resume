@@ -87,20 +87,20 @@ const portfolio_details = [
         source_link: 'https://github.com/PanupongDeve/react-kdr',
         detail: 'Use React and Firebase library to build E-commerce client'
     },
-    {
-        time: '2018',
-        title: 'FerrayBooking-Backend',
-        title_link: 'https://github.com/PanupongDeve/FerrayBooking-Backend',
-        source_link: 'https://github.com/PanupongDeve/FerrayBooking-Backend',
-        detail: 'API Nodejs + OOP and use design pattern for create API'
-    },
-    {
-        time: '2018',
-        title: 'info-smile',
-        title_link: 'https://github.com/PanupongDeve/info-smile-prod',
-        source_link: 'https://github.com/PanupongDeve/info-smile-prod',
-        detail: 'website รวบรวม content เกี่ยวกับการดูแลสุขภาพจิต และระบบจองสำหรับปรึกษาผู้เชี่ยวชาญ'
-    }
+    // {
+    //     time: '2018',
+    //     title: 'FerrayBooking-Backend',
+    //     title_link: 'https://github.com/PanupongDeve/FerrayBooking-Backend',
+    //     source_link: 'https://github.com/PanupongDeve/FerrayBooking-Backend',
+    //     detail: 'API Nodejs + OOP and use design pattern for create API'
+    // },
+    // {
+    //     time: '2018',
+    //     title: 'info-smile',
+    //     title_link: 'https://github.com/PanupongDeve/info-smile-prod',
+    //     source_link: 'https://github.com/PanupongDeve/info-smile-prod',
+    //     detail: 'website รวบรวม content เกี่ยวกับการดูแลสุขภาพจิต และระบบจองสำหรับปรึกษาผู้เชี่ยวชาญ'
+    // }
 ]
 
 
