@@ -11,7 +11,7 @@ const WorkExperience = () => {
                     <article className="resume-timeline-item position-relative pb-5 mb-2">
                         <div className="resume-timeline-item-header mb-2">
                             <div className="d-flex flex-column flex-md-row">
-                                <h3 className="resume-position-title font-weight-bold mb-1">DevOps Engineer - Test</h3>
+                                <h3 className="resume-position-title font-weight-bold mb-1">DevOps Engineer</h3>
                                 <div className="resume-company-name ms-auto">Primo World Co., Ltd</div>
                             </div>
                             <div className="resume-position-time">
